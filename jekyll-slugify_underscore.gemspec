@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name        = "jekyll-slugify_underscore"
   spec.version     = Jekyll::SlugifyUnderscore::VERSION
   spec.summary     = "Jekyll slugify with underscores."
-  spec.description = "A plugin to make Jekyll slugify with underscores instead of hypens."
+  spec.description = "A plugin to make Jekyll slugify with underscores instead of hyphens."
   spec.authors     = ["Paul Robert Lloyd"]
   spec.email       = "me+rubygems@paulrobertlloyd.com"
   spec.files       = Dir.glob("lib/**/*.rb")

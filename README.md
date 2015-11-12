@@ -1,8 +1,9 @@
 # jekyll-slugify_underscore
 
-A plugin to make Jekyll slugify with underscores instead of hypens.
+A plugin to make Jekyll slugify with underscores instead of hyphens.
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-slugify_underscore.svg)](https://rubygems.org/gems/jekyll-slugify_underscore)
+[![Build Status](https://img.shields.io/travis/paulrobertlloyd/jekyll-slugify_underscore/master.svg)](https://travis-ci.org/paulrobertlloyd/jekyll-slugify_underscore)
 
 ## Installation
 
