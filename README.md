@@ -7,7 +7,7 @@ A plugin to make Jekyll slugify with underscores instead of hyphens.
 
 ## Installation
 
-1. Add `gem 'jekyll-slugify_underscore'` to your site’s Gemfile and run bundle
+1. Add `gem 'jekyll-slugify_underscore'` to your site’s Gemfile and run `bundle`
 2. Add the following to your site’s `_config.yml`:
 
 ```yml
