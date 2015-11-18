@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 gemspec
 
-if ENV["JEKYLL_VERSION"]
-  gem "jekyll", "~> #{ENV["JEKYLL_VERSION"]}"
-end
+gem 'jekyll', github: 'jekyll/jekyll'
+# gem "jekyll", ">= 3.0.2"  Use this specifier once version released
